@@ -2,7 +2,6 @@ name = "market-day-calendar"
 compatibility_date = "2026-02-03"
 account_id = "<YOUR_ACCOUNT_ID>" # 替换为你的 Cloudflare Account ID 或在发布时通过环境变量传入
 workers_dev = true
-type = "javascript"
 
 [site]
 bucket = "./dist"
